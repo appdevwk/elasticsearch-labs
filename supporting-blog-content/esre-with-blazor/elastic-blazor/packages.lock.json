@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "Elastic.Clients.Elasticsearch": {
+        "type": "Direct",
+        "requested": "[8.15.6, )",
+        "resolved": "8.15.6",
+        "contentHash": "7QsXvOtwtOkbdPPWozq9KkcBihswEzu/bEEPZvd0xAr5kkULd3qraHMyE+Nlq9B8JmuKjEYJcDpPnn885uPUmg==",
+        "dependencies": {
+          "Elastic.Transport": "0.4.22"
+        }
+      },
+      "Elastic.Transport": {
+        "type": "Transitive",
+        "resolved": "0.4.22",
+        "contentHash": "9J5GPHJcT8sewn2zVfWTrsCQvfQYgUiY/jx+IRjWUk7XNPd837qfEL42I5baH69cyW/e4RoDy8v76yxqz95tDw=="
+      }
+    }
+  }
+}
