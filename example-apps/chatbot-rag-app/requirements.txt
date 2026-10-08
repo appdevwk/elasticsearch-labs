@@ -470,7 +470,7 @@ typing-inspect==0.9.0
     # via dataclasses-json
 ujson==5.10.0
     # via langtrace-python-sdk
-urllib3==2.3.0
+urllib3==2.8.0
     # via
     #   botocore
     #   elastic-transport

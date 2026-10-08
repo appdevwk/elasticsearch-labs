@@ -36,7 +36,7 @@ pyproject-hooks==1.0.0
     # via build
 python-dotenv==1.0.0
     # via -r requirements.in
-urllib3==1.26.18
+urllib3==2.8.0
     # via elastic-transport
 werkzeug==3.0.1
     # via flask
