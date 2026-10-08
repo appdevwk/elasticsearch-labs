@@ -214,7 +214,7 @@ langchain-mistralai==0.2.4
     # via -r requirements.in
 langchain-openai==0.3.2
     # via -r requirements.in
-langchain-text-splitters==0.3.5
+langchain-text-splitters==1.1.2
     # via langchain
 langsmith==0.3.2
     # via
