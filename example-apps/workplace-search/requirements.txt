@@ -22,7 +22,7 @@ google-auth==2.23.2
 idna==3.4
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
-Jinja2==3.1.2
+Jinja2==3.1.6
 jmespath==1.0.1
 jq==1.4.1
 jsonpatch==1.33
